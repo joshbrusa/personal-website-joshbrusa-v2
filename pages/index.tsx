@@ -11,7 +11,7 @@ export default function Home() {
       <ul className="mt-2 list-disc list-inside">
         <li>
           <Link
-            href="https://docs.google.com/document/d/e/2PACX-1vQCphb70B-DQmPSOR_GVsz3uV4iTevAKDDh-K5tVKStVlsqoWUG2f5ekOOW_DuHZDBT0Dq-WNPtulEM/pub"
+            href="https://docs.google.com/document/d/e/2PACX-1vRSxW3TGNpFoqIE5dnCLZU4bTyr1qdV57y7kYFRjMbovp4NCjEnmhl8t-yMMRt9SEQxfsnyZ-wML59M/pub"
             target="_blank"
           >
             Resume
